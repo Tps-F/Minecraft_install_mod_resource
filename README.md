@@ -72,6 +72,7 @@ python instlal_mod_resource.py
 # Possible Errors
 The ones made executable by pyinstaller are sometimes recognized as viruses.
 You need to build the Bootloader and replace files.
+
 ![image](https://user-images.githubusercontent.com/63702646/205706644-1940e86a-333e-404d-81ec-f597af9c49f8.png)
 
 
