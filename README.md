@@ -13,7 +13,7 @@ This code currently works only on windows.
 
 ## Copyright notices
 
-This code is distributed under the GPL. The author assumes no responsibility whatsoever for its use.
+This code is distributed under the MIT License. The author assumes no responsibility whatsoever for its use.
 
 
 
